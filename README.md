@@ -12,6 +12,6 @@ Manual que tenemos que seguir para configurar un Router y dos Switches con VLAN'
 
 5. Configuramos el **[Router](router.md)**.
 
-6. Configuramos el SSH en el **[Switch servidor](ssh.md)**.
+6. Configuramos el **[SSH](ssh.md)** en el Switch servidor.
 
-7. Configuramos la Seguridad en ambos **[Switches](seguridad.md)**
+7. Configuramos la **[Seguridad](seguridad.md)** en ambos Switches.
