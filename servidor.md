@@ -19,8 +19,8 @@
 15. `vtp domain nombre_dominio`
 16. `vtp password passwd_vtp`
 
-### 'Configuración VLAN'
-(Configuraremos en este caso 6 VLAN's)
+### 'Creación VLAN'
+(Crearemos en este caso 6 VLAN's)
 
 1. `vlan 99`
 2. `name ADMIN`
