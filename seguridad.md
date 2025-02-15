@@ -9,7 +9,7 @@ Para configurar la Seguridad en los puertos de ambos Switches, tendremos que:
 5. `switchport port-security violation shutdown` ➡️ Utilizamos shutdown por ser el más potente
 
 > [!WARNING] 
-> NUNCA ponemos seguiridad en los puertos que hemos declarado como mode trunk
+> NUNCA ponemos seguridad en los puertos que hemos declarado como mode trunk
 
 > [!NOTE]
 > Para entrar desde el PC Admin, usamos el comando ssh -l usuario IP_Switch
