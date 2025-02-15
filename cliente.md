@@ -1,4 +1,4 @@
-## [Switch Servidor](README.md)
+## [Configuración Switch Cliente](README.md)
 
 ### 'Bloque Genérico'
 
