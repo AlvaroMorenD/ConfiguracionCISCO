@@ -5,18 +5,19 @@
 1. `enable`
 2. `conf term`
 3. `no ip domain lookup`
-4. `enable secret class`
-5. `hostname SWITCH_SERVIDOR`
-6. `line console 0`
-7. `password cisco`
-8. `login`
-9. `line vty 0 15`
-10. `password cisco`
-11. `login`
-12. `banner motd #Usuario NO Autorizado#`
-13. `vtp mode server`
-14. `vtp domain nombre_dominio`
-15. `vtp password passwd_vtp`
+4. `service password-encryption`
+5. `enable secret class`
+6. `hostname SWITCH_SERVIDOR`
+7. `line console 0`
+8. `password cisco`
+9. `login`
+10. `line vty 0 15`
+11. `password cisco`
+12. `login`
+13. `banner motd #Usuario NO Autorizado#`
+14. `vtp mode server`
+15. `vtp domain nombre_dominio`
+16. `vtp password passwd_vtp`
 
 ### 'Configuración VLAN'
 (Configuraremos en este caso 6 VLAN's)
