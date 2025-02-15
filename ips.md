@@ -1,4 +1,4 @@
-## Configurar IP's en PC's
+## [Configurar IP's en PC's](README.md)
 
 1. Seleccionamos el PC a configurar. Pinchamos en 'Desktop' -> IP Configuration
 
