@@ -8,7 +8,7 @@ Para configurar la Seguridad en los puertos de ambos Switches, tendremos que:
 4. `switchport port-security mac-address sticky`
 5. `switchport port-security violation shutdown` ➡️ Utilizamos shutdown por ser el más potente
 
-> [WARNING] 
+> [!WARNING] 
 > NUNCA ponemos seguiridad en los puertos que hemos declarado como mode trunk
 
 
