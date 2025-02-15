@@ -19,7 +19,7 @@
 15. `vtp domain nombre_dominio`
 16. `vtp password passwd_vtp`
 
-### 'Configuracion Interfaces'
+### 'Configuración Interfaces'
 (Activamos los f0/x que vayamos a utilizar)
 
 1. `int range f0/1-24` ➡️ Seleccionamos los que van en mode access
@@ -34,6 +34,7 @@
 10. `no shutdown`
 
 ### 'Configuramos la IP'
+
 1. `int vlan 99`
 2. `ip address [ip] [mask]` ➡️ Configuramos la IP y Mask de la vlan ADMIN
 3. `no shutdown`
