@@ -1,4 +1,5 @@
 # Configuración CISCO
+## Router on a Stick
 
 Manual que tenemos que seguir para configurar un Router y dos Switches con VLAN's:
 
@@ -10,8 +11,14 @@ Manual que tenemos que seguir para configurar un Router y dos Switches con VLAN'
 
 4. Asignamos las IP's a los PC's.
 
-5. Configuramos el **[Router](router.md)**.
+5. Configuramos el **[SSH](ssh.md)** en el Switch servidor.
 
-6. Configuramos el **[SSH](ssh.md)** en el Switch servidor.
+6. Configuramos la **[Seguridad](seguridad.md)** en ambos Switches.
 
-7. Configuramos la **[Seguridad](seguridad.md)** en ambos Switches.
+7. Unimos los dos Switches con los g0/x que hemos configurado como `mode trunk`.
+
+8. Configuramos el **[EtherChannel](etherchannel.md)** en el que caso de que nos lo indiquen.
+
+9. Configuramos el **[Router](router.md)**.
+
+10. Unimos el **Switch Servidor** con el **Router** por el *g0/x* que hemos configurado.
