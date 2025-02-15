@@ -23,3 +23,5 @@
 5. `encapsulation dot1q xx` ➡️ Siendo xx una VLAN creada
 6. `ip address [ip] [mask]` ➡️ Ponemos la IP que nos faciliten con su Mask.
 7. `no shutdown`
+
+Siguiente -> [Configurar SSH](ssh.md)
