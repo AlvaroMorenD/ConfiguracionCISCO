@@ -1,7 +1,7 @@
 ## [Configuración SSH](README.md)
 
 Vamos a configurar el acceso a SSH en ambos Switches:
-1. `service password-encryption`
+1. 
 2. `username usuario1 password clave1`
 3. `line vty 0 15`
 4. `login local`
