@@ -55,3 +55,5 @@
 8. `switchport mode trunk` ➡️ Asignamos la VLAN Nativa
 9. `switchport trunk native vlan XX`
 10. `no shutdown`
+
+Siguiente -> [SWITCH CLIENTE](cliente.md)
