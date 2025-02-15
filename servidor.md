@@ -33,10 +33,12 @@
 10. `name vlan40`
 11. `vlan 50` ➡️ Esta será la Nativa
 12. `name vlan50`
-13. `int vlan 99`
-14. `ip address [ip] [mask]` ➡️ Configuramos la IP y Mask de la vlan ADMIN
-15. `no shutdown`
-16. `ip default-gateway [ip]` ➡️ Asignamos Gateway para ir al router
+
+### 'Configuramos la IP'
+1. `int vlan 99`
+2. `ip address [ip] [mask]` ➡️ Configuramos la IP y Mask de la vlan ADMIN
+3. `no shutdown`
+4. `ip default-gateway [ip]` ➡️ Asignamos Gateway predeterminada
 
 ### 'Configuracion Interfaces'
 (Activamos los f0/x que vayamos a utilizar)
