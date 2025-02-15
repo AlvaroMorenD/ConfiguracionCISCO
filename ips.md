@@ -12,4 +12,4 @@
 > [!WARNING]
 > No olvidemos que un PC tiene que ir como admin configurado con la IP de la VLAN Admin
 
-Siguiente -> [Configurar Router](router.md)
+Siguiente -> [Configurar SSH](ssh.md)
