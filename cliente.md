@@ -32,3 +32,8 @@
 9. `switchport trunk native vlan XX`
 10. `no shutdown`
 
+### 'Configuramos la IP'
+1. `int vlan 99`
+2. `ip address [ip] [mask]` ➡️ Configuramos la IP y Mask de la vlan ADMIN
+3. `no shutdown`
+4. `ip default-gateway [ip]` ➡️ Asignamos Gateway predeterminada
