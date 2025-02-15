@@ -13,3 +13,5 @@ Vamos a configurar el acceso a SSH en ambos Switches:
 10. `exit`
 11. `wr`
 
+> [!WARNING]
+> Esto tendremos que hacerlo
