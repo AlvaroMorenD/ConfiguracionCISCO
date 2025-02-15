@@ -18,5 +18,3 @@
 16. `encapsulation dot1q xx` ➡️ Siendo xx una VLAN creada
 17. `ip address [ip] [mask]` ➡️ Ponemos la IP que nos faciliten con su Mask.
 18. `no shutdown`
-19. `end`
-20. `wr`
