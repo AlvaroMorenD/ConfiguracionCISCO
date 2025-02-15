@@ -1,4 +1,4 @@
-## [Router](README.md)
+## [Configuración Router](README.md)
 
 1. `enable`
 2. `conf term`
