@@ -1,4 +1,4 @@
-# Cnfiguración CISCO
+# Configuración CISCO
 
 Orden que tenemos que seguir para configurar un Router y dos Switches con VLAN's:
 
