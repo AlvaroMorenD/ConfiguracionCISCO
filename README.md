@@ -1,5 +1,5 @@
-# Configuración CISCO
-## Router on a Stick
+# ⚙️ Configuración CISCO
+## 🛜 Router on a Stick
 
 Manual que tenemos que seguir para configurar un Router y dos Switches con VLAN's:
 
