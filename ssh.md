@@ -14,3 +14,5 @@ Vamos a configurar el acceso a SSH en ambos Switches:
 
 > [!WARNING]
 > Esto tendremos que hacerlo ambos Switches
+
+Siguiente -> [Configurar Seguridad](seguridad.md)
