@@ -8,3 +8,5 @@
 
 > [!WARNING]
 > Esto lo hacemos en ambos Switches, tanto en Servidor como en Cliente
+
+Siguiente -> [Configurar Router](router.md)
