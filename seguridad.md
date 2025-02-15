@@ -13,3 +13,5 @@ Para configurar la Seguridad en los puertos de ambos Switches, tendremos que:
 
 > [!NOTE]
 > Para entrar desde el PC Admin, usamos el comando ssh -l usuario IP_Switch
+
+Siguiente -> []()
