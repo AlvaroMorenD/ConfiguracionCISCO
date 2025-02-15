@@ -12,6 +12,6 @@ Para configurar la Seguridad en los puertos de ambos Switches, tendremos que:
 > NUNCA ponemos seguridad en los puertos que hemos declarado como mode trunk
 
 > [!NOTE]
-> Para entrar desde el PC Admin, usamos el comando ssh -l usuario IP_Switch
+> Para entrar desde el PC Admin, usamos el comando ssh -l usuario_declarado IP_Switch
 
 Siguiente -> [Configurar EtherChannel](etherchannel.md)
