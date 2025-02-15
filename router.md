@@ -24,4 +24,4 @@
 6. `ip address [ip] [mask]` ➡️ Ponemos la IP que nos faciliten con su Mask.
 7. `no shutdown`
 
-Siguiente -> [Configurar SSH](ssh.md)
+Siguiente -> [Comprobaciones](comprobaciones.md)
