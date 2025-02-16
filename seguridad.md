@@ -11,9 +11,11 @@ Para configurar la Seguridad en los puertos de ambos Switches, tendremos que:
 > [!WARNING] 
 > NUNCA ponemos seguridad en los puertos que hemos declarado como mode trunk
 
+---
 > [!TIP]
 > Para comprobar la seguridad, cambiamos la mac de un PC dos veces y debería de apagarnos el puerto al tercer cambio 
 
+---
 > [!NOTE]
 > Para entrar desde el PC Admin, usamos el comando ssh -l usuario_declarado IP_Switch
 
