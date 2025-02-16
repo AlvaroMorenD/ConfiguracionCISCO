@@ -9,7 +9,7 @@ Manual que tenemos que seguir para configurar un Router y dos Switches con VLAN'
 
 3. Configuramos el **[Switch cliente](cliente.md)**.
 
-4. Asignamos las IP's a los PC's.
+4. Asignamos las [IP's](ips.md) a los PC's.
 
 5. Configuramos el **[SSH](ssh.md)** en el Switch servidor.
 
