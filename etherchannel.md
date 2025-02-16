@@ -5,6 +5,7 @@
 3. `int port-channel 1`
 4. `switchport mode trunk` 
 5. `end`
+6. `wr`
 
 ---
 > [!WARNING]
