@@ -40,4 +40,5 @@
 3. `no shutdown`
 4. `ip default-gateway [ip]` ➡️ Asignamos Gateway predeterminada
 
+---
 Siguiente -> [Configurar IP's](ips.md)
