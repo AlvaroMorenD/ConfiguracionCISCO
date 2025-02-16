@@ -6,7 +6,9 @@
 4. `switchport mode trunk` 
 5. `end`
 
+---
 > [!WARNING]
 > Esto lo hacemos en ambos Switches, tanto en Servidor como en Cliente
 
+---
 Siguiente -> [Configurar Router](router.md)
