@@ -14,7 +14,7 @@
 10. `line vty 0 15`
 11. `password cisco`
 12. `login`
-13. `banner motd #Usuario NO Autorizado#`
+13. `banner motd #Usuario Autorizado#`
 14. `vtp mode server`
 15. `vtp domain nombre_dominio`
 16. `vtp password passwd_vtp`
