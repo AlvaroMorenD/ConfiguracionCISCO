@@ -9,7 +9,9 @@
 
 ![imagen2](img/ip2.png)
 
+---
 > [!WARNING]
 > No olvidemos que un PC tiene que ir como admin configurado con la IP de la VLAN Admin
 
+---
 Siguiente -> [Configurar SSH](ssh.md)
