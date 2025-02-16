@@ -20,7 +20,7 @@
 2. `no ip address`
 3. `no shutdown`
 4. `int g0/x.xx` ➡️ Seleccionamos el g0/x y la VLAN xx dependiendo de las VLAN que hagamos
-5. `encapsulation dot1q vlan xx` ➡️ Siendo xx una VLAN creada
+5. `encapsulation dot1q xx` ➡️ Siendo xx una VLAN seleccionada
 6. `ip address [ip] [mask]` ➡️ Ponemos la IP que nos faciliten con su Mask.
 7. `no shutdown`
 8. `end`
