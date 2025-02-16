@@ -56,4 +56,5 @@
 9. `switchport trunk native vlan XX`
 10. `no shutdown`
 
+---
 Siguiente -> [SWITCH CLIENTE](cliente.md)
