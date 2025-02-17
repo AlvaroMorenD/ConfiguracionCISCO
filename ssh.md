@@ -18,4 +18,8 @@ Vamos a configurar el acceso a SSH en ambos Switches:
 > Esto tendremos que hacerlo en ambos Switches
 
 ---
+> [!NOTE]
+> Para entrar desde el PC Admin, usamos el comando ssh -l usuario_declarado IP_Switch
+
+---
 Siguiente -> [Configurar Seguridad](seguridad.md)
