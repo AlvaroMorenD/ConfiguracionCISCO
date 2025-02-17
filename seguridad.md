@@ -2,11 +2,12 @@
 
 Para configurar la Seguridad en los puertos de ambos Switches, tendremos que:
 
-1. `int range f0/x-x` ➡️ Seleccionamos los puertos que hemos usado como `mode access`.
-2. `switchport port-security`
-3. `switchport port-security maximum N` ➡️ Siendo N el numero de macs que permitimos el cambio.
-4. `switchport port-security mac-address sticky`
-5. `switchport port-security violation shutdown` ➡️ Utilizamos shutdown por ser el más potente
+1. `conf term`
+2. `int range f0/x-x` ➡️ Seleccionamos los puertos que hemos usado como `mode access`.
+3. `switchport port-security`
+4. `switchport port-security maximum N` ➡️ Siendo N el numero de macs que permitimos el cambio.
+5. `switchport port-security mac-address sticky`
+6. `switchport port-security violation shutdown` ➡️ Utilizamos shutdown por ser el más potente
 
 ---
 > [!WARNING] 
