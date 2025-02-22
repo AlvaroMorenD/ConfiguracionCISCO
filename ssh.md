@@ -15,7 +15,7 @@ Vamos a configurar el acceso a SSH en ambos Switches:
 
 ---
 > [!WARNING]
-> Esto tendremos que hacerlo en ambos Switches
+> Esto tendremos que hacerlo en todos Switches
 
 ---
 > [!NOTE]
