@@ -20,9 +20,10 @@
 16. `vtp password passwd_vtp`
 
 ### 'Creación VLAN'
+---
 > [!CAUTION]
 > Solo si es se configura como SWITCH SERVIDOR
-
+---
 1. `vlan 99`
 2. `name ADMIN`
 3. `vlan XX`
