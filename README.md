@@ -54,5 +54,5 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 
 ## 🌐 Configuración del DHCP
 
-1. Seleccionamos el [router](routerdhcp.md) que ya tenemos configurado.
-2. Cambiamos las [IP's](ipdhcp.md) de los PC's.
+1. Seleccionamos el **[Router](routerdhcp.md)** que ya tenemos configurado.
+2. Cambiamos las **[IP's](ipdhcp.md)** de los PC's.
