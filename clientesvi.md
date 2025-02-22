@@ -41,4 +41,4 @@
 4. `ip default-gateway [ip]` ➡️ Asignamos Gateway predeterminada
 
 ---
-Siguiente -> [Configurar IP's](ips.md)
+Siguiente -> [Configurar IP's](ipssvi.md)
