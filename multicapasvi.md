@@ -59,6 +59,6 @@
 3. `int vlan XX`
 4. `ip address [ip_gateway] [mask]` ➡️ Configuramos la IP y Mask de la vlan XX
 ---
-Siguiente -> [SWITCH SERVIDOR](servidorsvi.md) ➡️ En el caso que hayamos configurado el Switch Multicapa como "cliente"
+Siguiente -> [SWITCH SERVIDOR](servidorsvi.md) ➡️ En el caso que hayamos configurado el Switch Multicapa como "cliente"\
 Siguiente -> [SWITCH CLIENTE](clientesvi.md) ➡️ En el caso que hayamos configurado el Switch Multicapa como "servidor"
 
