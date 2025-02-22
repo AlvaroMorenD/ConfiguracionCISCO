@@ -52,7 +52,7 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 10. Configuramos el **[EtherChannel](etherchannelsvi.md)** en el que caso de que nos lo indiquen.
 ---
 
-## 🌐 Configuración del DHCP
+## 🌐 Configuración DHCP
 
 1. Seleccionamos el **[Router](routerdhcp.md)** que ya tenemos configurado.
 2. Modificamos las **[IP's](ipdhcp.md)** de los PC's a dinámica
