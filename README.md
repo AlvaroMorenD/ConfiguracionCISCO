@@ -40,10 +40,12 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 
 5. Asignamos las [IP's](ips.md) a los PC's.
 
-6. Configuramos el **[SSH](ssh.md)**.
+6. Conectamos los cables que hemos configurado entre los Switches.
 
-7. Configuramos la **[Seguridad](seguridad.md)** en todos los Switches.
+7. Configuramos el **[SSH](sshsvi.md)**.
 
-8. Unimos los dos Switches con los g0/x que hemos configurado como `mode trunk`.
+8. Configuramos la **[Seguridad](seguridadsvi.md)** en todos los Switches.
 
-9. Configuramos el **[EtherChannel](etherchannelsvi.md)** en el que caso de que nos lo indiquen.
+9. Unimos los dos Switches con los g0/x que hemos configurado como `mode trunk`.
+
+10. Configuramos el **[EtherChannel](etherchannelsvi.md)** en el que caso de que nos lo indiquen.
