@@ -13,3 +13,4 @@
 > Esto lo hacemos en ambos Switches, tanto en Servidor como en Cliente
 
 ---
+Siguiente -> [Comprobaciones](comprobaciones.md)
