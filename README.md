@@ -30,7 +30,9 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 
 1. Colocamos los PC's, los Switches y el Switch Multicapa. Cableamos los Switches con los PC's.
 
-2. Configuramos el **[Switch multicapa](multicapasvi.md)**. Puede ir como "cliente" o "servidor", pero siempre será el que enruta.
+2. Configuramos el **[Switch multicapa](multicapasvi.md)**. Es el que va a enrutar 
+  - ‼️ Si lo vamos a configurar como "servidor", lo configuramos primero.
+  - ‼️ Si lo vamos a configurar como "cliente", lo configuraremos despues del "servidor"
 
 3. Configuramos el **[Switch servidor](servidorsvi.md)**.
 
