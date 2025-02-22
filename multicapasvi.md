@@ -22,7 +22,7 @@
 ### 'Creación VLAN'
 ---
 > [!CAUTION]
-> Solo si es se configura como SWITCH SERVIDOR
+> Solo si se configura como SWITCH SERVIDOR
 ---
 1. `vlan 99`
 2. `name ADMIN`
@@ -32,14 +32,6 @@
 6. `name vlanYY`
 7. `vlan 50` ➡️ Esta será la Nativa
 8. `name vlan50`
-
-### 'Configuramos la IP'
-
-1. `int vlan 99`
-2. `no ip address`
-3. `ip address [ip] [mask]` ➡️ Configuramos la IP y Mask de la vlan ADMIN
-4. `no shutdown`
-5. `ip default-gateway [ip]` ➡️ Asignamos Gateway predeterminada
 
 ### 'Configuracion Interfaces'
 (Activamos los f0/x que vayamos a utilizar)
@@ -57,6 +49,15 @@
 ---
 > [!WARNING]
 > En los troncales no usamos switchport mode trunk
+---
+
+
+### 'Configuramos la IP'
+
+1. `int vlan 99`
+2. `ip address [ip_gateway] [mask]` ➡️ Configuramos la IP y Mask de la vlan ADMIN
+3. `int vlan XX`
+4. `ip address [ip_gateway] [mask]` ➡️ Configuramos la IP y Mask de la vlan XX
 ---
 Siguiente -> [SWITCH SERVIDOR](servidorsvi.md) ➡️ En el caso que hayamos configurado el Switch Multicapa como "cliente"
 Siguiente -> [SWITCH CLIENTE](clientesvi.md) ➡️ En el caso que hayamos configurado el Switch Multicapa como "servidor"
