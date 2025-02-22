@@ -30,7 +30,7 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 
 1. Colocamos los PC's, los Switches y el Switch Multicapa. Cableamos los Switches con los PC's.
 
-2. Configuramos el **[Switch Multicapa](multicapasvi.md)**.
+2. Configuramos el **[Switch multicapa](multicapasvi.md)**. Puede ir como "cliente" o "servidor", pero siempre será el que enruta.
 
 3. Configuramos el **[Switch servidor](servidorsvi.md)**.
 
@@ -38,9 +38,9 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 
 5. Asignamos las [IP's](ips.md) a los PC's.
 
-6. Configuramos el **[SSH](ssh.md)** en el Switch servidor.
+6. Configuramos el **[SSH](ssh.md)**.
 
-7. Configuramos la **[Seguridad](seguridad.md)** en ambos Switches.
+7. Configuramos la **[Seguridad](seguridad.md)** en todos los Switches.
 
 8. Unimos los dos Switches con los g0/x que hemos configurado como `mode trunk`.
 
