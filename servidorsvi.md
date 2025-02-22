@@ -52,4 +52,5 @@
 10. `no shutdown`
 
 ---
-Siguiente -> [SWITCH CLIENTE](clientesvi.md)
+Siguiente -> [SWITCH MULTICAPA](multicapasvi.md) ➡️ Solo si el Multicapa va como "cliente".
+Siguiente -> [SWITCH CLIENTE](clientesvi.md) ➡️ Si ya tenemos configurado el Multicapa como "cliente"
