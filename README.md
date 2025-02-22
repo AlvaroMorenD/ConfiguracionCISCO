@@ -50,3 +50,9 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 9. Unimos los dos Switches con los g0/x que hemos configurado como `mode trunk`.
 
 10. Configuramos el **[EtherChannel](etherchannelsvi.md)** en el que caso de que nos lo indiquen.
+---
+
+## 🌐 Configuración del DHCP
+
+1. Seleccionamos el [router](routerdhcp.md) que ya tenemos configurado.
+2. Cambiamos las [IP's](ipdhcp.md) de los PC's.
