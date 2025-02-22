@@ -1,6 +1,6 @@
 ## [Configuración Router](README.md)
 
-### DHCP
+### 'DHCP'
 
 1. `enable`
 2. `conf term`
