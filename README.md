@@ -44,4 +44,4 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 
 8. Unimos los dos Switches con los g0/x que hemos configurado como `mode trunk`.
 
-9. Configuramos el **[EtherChannel](etherchannel.md)** en el que caso de que nos lo indiquen.
+9. Configuramos el **[EtherChannel](etherchannelsvi.md)** en el que caso de que nos lo indiquen.
