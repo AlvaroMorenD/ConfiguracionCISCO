@@ -22,6 +22,7 @@
 
 > [!WARNING]
 > Si no es el Switch Servidor, no ponemos nada en 'VTP MODE', solo configuraremos el 'VTP DOMAIN' y el 'VTP PASSWORD'
+---
 
 ### 'Creación VLAN'
 ---
