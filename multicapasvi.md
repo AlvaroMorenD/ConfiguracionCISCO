@@ -15,9 +15,13 @@
 11. `password cisco`
 12. `login`
 13. `banner motd #Usuario Autorizado#`
-14. `vtp mode server` o `vtp mode client` ➡️ Depende de como nos pidan configurarlo
+14. `vtp mode server` ➡️ OJO: ver WARNING
 15. `vtp domain nombre_dominio`
 16. `vtp password passwd_vtp`
+---
+
+> [!WARNING]
+> Si no es el Switch Servidor, no ponemos nada en 'VTP MODE', solo configuraremos el 'VTP DOMAIN' y el 'VTP PASSWORD'
 
 ### 'Creación VLAN'
 ---
