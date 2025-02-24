@@ -22,7 +22,7 @@
 ### 'Creación VLAN'
 ---
 > [!CAUTION]
-> Solo si se configura como SWITCH SERVIDOR
+> Solo si se crean las VLAN's como SWITCH SERVIDOR
 ---
 1. `vlan 99`
 2. `name ADMIN`
