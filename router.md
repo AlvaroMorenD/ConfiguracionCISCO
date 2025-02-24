@@ -27,4 +27,5 @@
 9. `wr`
 
 ---
+Siguiente -> [DHCP](dhcp.md)
 Siguiente -> [Comprobaciones](comprobaciones.md)
