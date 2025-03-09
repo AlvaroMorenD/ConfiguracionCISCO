@@ -5,10 +5,13 @@
 
    ![hwic2t](img/hwic_2t.png)
    
-4. Pinchamos y arrastramos el módulo que está ubicado abajo a la derecha.
+3. Pinchamos y arrastramos el módulo que está ubicado abajo a la derecha.
 
    ![serial](img/seriales.png)
    
-6. Colocamos el módulo en un hueco del router.
+4. Colocamos el módulo en un hueco del router.
 
    ![router_serial](img/router_con_serial.png)
+---
+
+
