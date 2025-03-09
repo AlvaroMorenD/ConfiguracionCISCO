@@ -1,8 +1,8 @@
 # ⚙️ Configuración CISCO
 ---
 
-- [Router On a Stick](#Router on a stick)
-### [Switches SVI](#Switches SVI)
+### [Router On a Stick](#router-on-a-stick)
+### [Switches SVI](#switches-svi)
 ### [Configuración DHCP](#Configuración DHCP)
 ### [PPP - PAP](#PPP - PAP)
 ### [PPP - CHAP](#PPP - CHAP)
