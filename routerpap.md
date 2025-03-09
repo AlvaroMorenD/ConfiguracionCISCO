@@ -50,4 +50,4 @@
 > La ip_gateway será la más cercana a la dir.red, pero que esté conectado a nuestro router.
 ---
 
-Siguiente -> 
+Siguiente -> [IP's](ips_pcs.md)
