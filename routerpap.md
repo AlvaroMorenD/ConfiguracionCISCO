@@ -1,4 +1,4 @@
-## Configuración del Router
+## [Configuración del Router](README.md)
 
 ### 'Bloque Genérico'
 
@@ -40,13 +40,14 @@
 ### 'Configuración de Usuario y Contraseña'
 
 - `username Rx password 1234` ➡️ Nombramos el router que tengamos enlazado con el que estamos configurando.
-
 > [!WARNING]
 > Si tenemos dos routers conectados, tenemos que poner los dos username Rx que tengamos enlazados.
 
 ### 'Configuración Rutas'
 
 - `ip route dir.red mask ip_gateway` ➡️ Configuraremos tantas rutas como direcciones de red tengamos.
-
 > [!WARNING]
 > La ip_gateway será la más cercana a la dir.red, pero que esté conectado a nuestro router.
+---
+
+Siguiente -> 
