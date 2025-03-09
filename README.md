@@ -10,7 +10,7 @@
 - [🔒 PPP - CHAP](#-ppp---chap)
 
 ---
-## 🛜 [Router on a Stick](#-configuración-cisco)
+## 🛜 [Router on a Stick](#índice)
 
 Manual que tenemos que seguir para configurar un Router y dos Switches con VLAN's:
 
