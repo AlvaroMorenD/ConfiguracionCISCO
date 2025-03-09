@@ -3,11 +3,10 @@
 
 ## Índice
 
-- [⚙️ Configuración CISCO](#configuración-cisco)
-- [🛜 Router on a Stick](#router-on-a-stick)
-- [💿 Switches SVI](#switches-svi)
-- [🌐 Configuración DHCP](#configuración-dhcp)
-- [🔒 PPP - PAP](#ppp---pap)
+- [🛜 Router on a Stick](#-router-on-a-stick)
+- [💿 Switches SVI](#-switches-svi)
+- [🌐 Configuración DHCP](#-configuración-dhcp)
+- [🔒 PPP - PAP](#-ppp---pap)
 
 
 ---
