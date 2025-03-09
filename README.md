@@ -1,5 +1,13 @@
 # ⚙️ Configuración CISCO
 ---
+
+### [Router On a Stick](#Router on a stick)
+### [Switches SVI](#Switches SVI)
+### [Configuración DHCP](#Configuración DHCP)
+### [PPP - PAP](#PPP - PAP)
+### [PPP - CHAP](#PPP - CHAP)
+
+---
 ## 🛜 Router on a Stick
 
 Manual que tenemos que seguir para configurar un Router y dos Switches con VLAN's:
