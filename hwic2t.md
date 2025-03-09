@@ -14,4 +14,4 @@
    ![router_serial](img/router_con_serial.png)
 ---
 
-Siguiente -> [Configuración Router](routerpap.md)
+Siguiente -> [Configuración Router PAP](routerpap.md) o [Configuración Router CHAP](routerchap.md)
