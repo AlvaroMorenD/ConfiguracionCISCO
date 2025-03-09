@@ -1,4 +1,4 @@
-## [Configuración del Router](README.md)
+## [Configuración del Router CHAP](README.md)
 
 ### 'Bloque Genérico'
 
