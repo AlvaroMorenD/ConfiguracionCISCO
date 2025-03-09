@@ -35,7 +35,7 @@ Manual que tenemos que seguir para configurar un Router y dos Switches con VLAN'
 10. Unimos el **Switch Servidor** con el **Router** por el *g0/x* que hemos configurado.
 
 ---
-## 💿 Switches SVI
+## 💿 [Switches SVI](#índice)
 
 Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches con VLAN's:
 
@@ -62,20 +62,20 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 10. Configuramos el **[EtherChannel](etherchannelsvi.md)** en el que caso de que nos lo indiquen.
 ---
 
-## 🌐 Configuración DHCP
+## 🌐 [Configuración DHCP](#índice)
 
 1. Seleccionamos el **[Router](routerdhcp.md)** que ya tenemos configurado.
 2. Modificamos las **[IP's](ipdhcp.md)** de los PC's a dinámica
 ---
 
-## 🔒 PPP - PAP
+## 🔒 [PPP - PAP](#índice)
 
 1. Apagamos los Routers para colocarle el módulo **[HWIC - 2T](hwic2t.md)**.
 2. Configuramos todos los **[Routers](routerpap.md)** de la misma manera, excepto al poner el username password.
 3. Añadimos las IP's de los **[PC's](ips_pcs.md)** y probamos a hacer ping a todos los PC's.
 ---
 
-## 🔒 PPP - CHAP
+## 🔒 [PPP - CHAP](#índice)
 
 1. Con el Router apagado, colocamos el módulo **[HWIC - 2T](hwic2t.md)**.
 2. Configuramos los **[Routers](routerchap.md)**.
