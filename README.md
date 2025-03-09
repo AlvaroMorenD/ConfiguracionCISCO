@@ -7,7 +7,7 @@
 - [💿 Switches SVI](#-switches-svi)
 - [🌐 Configuración DHCP](#-configuración-dhcp)
 - [🔒 PPP - PAP](#-ppp---pap)
-
+- [🔒 PPP - CHAP](#-ppp---chap)
 
 ---
 ## 🛜 Router on a Stick
@@ -73,3 +73,10 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 1. Apagamos los Routers para colocarle el módulo **[HWIC - 2T](hwic2t.md)**.
 2. Configuramos todos los **[Routers](routerpap.md)** de la misma manera, excepto al poner el username password.
 3. Añadimos las IP's de los **[PC's](ips_pcs.md)** y probamos a hacer ping a todos los PC's.
+---
+
+## 🔒 PPP - CHAP
+
+1. Con el Router apagado, colocamos el módulo **[HWIC - 2T](hwic2t.md)**.
+2. Configuramos los **[Routers](routerpap.md)**.
+3. Añadimos las IP's de los **[PC's](ips_pcs.md)**.
