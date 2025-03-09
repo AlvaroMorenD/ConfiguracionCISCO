@@ -1,6 +1,7 @@
 ## Configuración del Router
 
-1. 'Bloque Genérico'
+### 'Bloque Genérico'
+
 - `en`
 - `conf term`
 - `no ip domain lookup`
@@ -18,13 +19,15 @@
 - `password cisco`
 - `login`
 
-2. 'Configuración GigaEthernet'
+### 'Configuración GigaEthernet'
+
 - `int gx/x` ➡️ Donde tengamos el PC conectado.
 - `description link to PCx`
 - `ip address IP mask`
 - `no shutdown`
 
-3. 'Configuración PPP-PAP'
+### 'Configuración PPP-PAP'
+
 - `int sx/x/x` ➡️ Donde tengamos el cable que enlaza con otro Router.
 - `description link to Rx` ➡️ Dirección al router que estemos configurando.
 - `ip address IP mask`
@@ -34,12 +37,16 @@
 - `no shutdown`
 - `exit`
 
-4. 'Configuración de Usuario y Contraseña'
+### 'Configuración de Usuario y Contraseña'
+
 - `username Rx password 1234` ➡️ Nombramos el router que tengamos enlazado con el que estamos configurando.
+
 > [!WARNING]
 > Si tenemos dos routers conectados, tenemos que poner los dos username Rx que tengamos enlazados.
 
-5. 'Configuración Rutas'
+### 'Configuración Rutas'
+
 - `ip route dir.red mask ip_gateway` ➡️ Configuraremos tantas rutas como direcciones de red tengamos.
+
 > [!WARNING]
 > La ip_gateway será la más cercana a la dir.red, pero que esté conectado a nuestro router.
