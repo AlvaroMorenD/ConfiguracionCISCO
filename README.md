@@ -78,5 +78,5 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 ## 🔒 PPP - CHAP
 
 1. Con el Router apagado, colocamos el módulo **[HWIC - 2T](hwic2t.md)**.
-2. Configuramos los **[Routers](routerpap.md)**.
+2. Configuramos los **[Routers](routerchap.md)**.
 3. Añadimos las IP's de los **[PC's](ips_pcs.md)**.
