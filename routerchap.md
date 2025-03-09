@@ -41,6 +41,8 @@
 - `username Rx password 1234` ➡️ Nombramos el router que tengamos enlazado con el que estamos configurando.
 > [!WARNING]
 > Si tenemos dos routers conectados, tenemos que poner los dos username Rx que tengamos enlazados.
+> [!NOTE]
+> Si estamos configurando el R1, escribiremos username R2 password 1234, si tenemos más routers conectado, deberemos escribir 1 por cada router
 
 ### 'Configuración Rutas'
 
