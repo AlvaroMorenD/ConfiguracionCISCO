@@ -57,3 +57,9 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 1. Seleccionamos el **[Router](routerdhcp.md)** que ya tenemos configurado.
 2. Modificamos las **[IP's](ipdhcp.md)** de los PC's a dinámica
 ---
+
+## 🔒 PPP - PAP
+
+1. Apagamos los Routers para colocarle el módulo **[HWIC - 2T](hwic2t.md)**.
+2. Configuramos todos los **[Routers](routerpap.md)** de la misma manera, excepto al poner el username password.
+3. Añadimos las IP's de los **[PC's](ips_pcs.md)** y probamos a hacer ping a todos los PC's.
