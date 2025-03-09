@@ -3,11 +3,11 @@
 
 ## Índice
 
-- [🛜 Router on a Stick](#-router-on-a-stick)
-- [💿 Switches SVI](#-switches-svi)
-- [🌐 Configuración DHCP](#-configuración-dhcp)
-- [🔒 PPP - PAP](#-ppp---pap)
-- [🔒 PPP - CHAP](#-ppp---chap)
+- [Ir a 🛜 Router on a Stick](#-router-on-a-stick)
+- [Ir a 💿 Switches SVI](#-switches-svi)
+- [Ir a 🌐 Configuración DHCP](#-configuración-dhcp)
+- [Ir a 🔒 PPP - PAP](#-ppp---pap)
+- [Ir a 🔒 PPP - CHAP](#-ppp---chap)
 
 ---
 ## 🛜 [Router on a Stick](#índice)
