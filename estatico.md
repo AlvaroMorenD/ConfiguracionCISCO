@@ -41,5 +41,7 @@
 ### 'Configuración Estático'
 
 - `ip route IP.Red Mask Gateway` ➡️ IP's remotamente conectadas.
+- `end`
+- `wr`
 
 ---
