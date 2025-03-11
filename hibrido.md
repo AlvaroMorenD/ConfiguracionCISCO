@@ -51,5 +51,6 @@
 - `ip route 0.0.0.0 0.0.0.0 IP_Gateway` ➡️ La puerta de enlace del Router que es puro estático.
 - `end`
 - `wr`
+
 ---
 Siguiente -> [Router Estático](estatico.md)
