@@ -60,23 +60,31 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 9. Unimos los dos Switches con los g0/x que hemos configurado como `mode trunk`.
 
 10. Configuramos el **[EtherChannel](etherchannelsvi.md)** en el que caso de que nos lo indiquen.
----
 
+---
 ## 🌐 [Configuración DHCP](#índice)
 
 1. Seleccionamos el **[Router](routerdhcp.md)** que ya tenemos configurado.
 2. Modificamos las **[IP's](ipdhcp.md)** de los PC's a dinámica
----
 
+---
 ## 🔒 [PPP - PAP](#índice)
 
 1. Apagamos los Routers para colocarle el módulo **[HWIC - 2T](hwic2t.md)**.
 2. Configuramos todos los **[Routers](routerpap.md)** de la misma manera, excepto al poner el username password.
 3. Añadimos las IP's de los **[PC's](ips_pcs.md)** y probamos a hacer ping a todos los PC's.
----
 
+---
 ## 🔒 [PPP - CHAP](#índice)
 
 1. Con el Router apagado, colocamos el módulo **[HWIC - 2T](hwic2t.md)**.
 2. Configuramos los **[Routers](routerchap.md)**.
 3. Añadimos las IP's de los **[PC's](ips_pcs.md)**.
+
+---
+## 🔃 [RIPv2-Híbrido-Estático](#índice)
+
+1. Configuramos el Router [RIPv2](ripv2.md).
+2. Ahora el [Híbrido](hibrido.md).
+3. Terminamos con el Router Puro [Estático](estático.md).
+4. Modificamos las IP's de los PC's y hacemos ping para comprobar que funciona.
