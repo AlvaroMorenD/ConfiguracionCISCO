@@ -8,6 +8,7 @@
 - [Ir a 🌐 Configuración DHCP](#-configuración-dhcp)
 - [Ir a 🔒 PPP - PAP](#-ppp---pap)
 - [Ir a 🔒 PPP - CHAP](#-ppp---chap)
+- [Ir a 🔃 RIPv2-Híbrido-Estático](#-ripv2-híbrido-estático)
 
 ---
 ## 🛜 [Router on a Stick](#índice)
