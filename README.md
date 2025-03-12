@@ -9,6 +9,7 @@
 - [Ir a 🔒 PPP - PAP](#-ppp---pap)
 - [Ir a 🔒 PPP - CHAP](#-ppp---chap)
 - [Ir a 🔃 RIPv2-Híbrido-Estático](#-ripv2-híbrido-estático)
+- [Ir a 📂 Configuración OSPF](#-configuración-ospf)
 
 ---
 ## 🛜 [Router on a Stick](#índice)
@@ -89,3 +90,9 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 2. Ahora el [Híbrido](hibrido.md).
 3. Terminamos con el Router Puro [Estático](estático.md).
 4. Modificamos las IP's de los PC's y hacemos ping para comprobar que funciona.
+
+---
+## 📂 [Configuración OSPF](#índice)
+
+1. Configuramos el Router [OSPF](ospf.md).
+2. Modificamos las IP's de los PC's y hacemos ping para comprobar que funciona.
