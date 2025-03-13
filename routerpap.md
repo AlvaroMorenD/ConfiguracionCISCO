@@ -47,7 +47,7 @@
 > Si estamos configurando el R1, escribiremos username R2 password 1234, si tenemos más routers conectado, deberemos escribir 1 por cada router
 
 ---
-### 'Configuración Rutas'
+### 'Configuración Rutas Estáticas'
 
 - `ip route dir.red mask ip_gateway` ➡️ Configuraremos tantas rutas como direcciones de red tengamos.
 > [!WARNING]
