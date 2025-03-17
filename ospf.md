@@ -44,4 +44,6 @@
 - `end`
 - `wr`
 
+>[!NOTE]
+>Si configuramos un OSPF en seriales y RIP en los ethernet, debemos utilizar el comando redistribute rip subnets
 ---
