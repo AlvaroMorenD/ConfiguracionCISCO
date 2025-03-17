@@ -45,5 +45,5 @@
 - `wr`
 
 >[!NOTE]
->Si configuramos un OSPF en seriales y RIP en los ethernet, debemos utilizar el comando redistribute rip subnets
+>Si configuramos un OSPF en seriales y RIP en los ethernet, debemos utilizar el comando 'redistribute rip subnets' dentro de la configuración de router ospf 1 
 ---
