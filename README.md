@@ -88,7 +88,7 @@ Manual que tenemos que seguir para configurar un Switch Multicapa y dos Switches
 
 1. Configuramos el Router [RIPv2](ripv2.md).
 2. Ahora el [Híbrido](hibrido.md).
-3. Terminamos con el Router Puro [Estático](estático.md).
+3. Terminamos con el Router Puro [Estático](estatico.md).
 4. Modificamos las IP's de los PC's y hacemos ping para comprobar que funciona.
 
 ---
